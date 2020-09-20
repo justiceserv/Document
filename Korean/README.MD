@@ -1,7 +1,8 @@
-# Document
- > Deplux의 공식 문서입니다.
+# 개별적인 페이지
+ * [홈](README.MD)
+ * [Configuration.json에 관하여](Config/README.MD)
+ * [Deplux NAZE (봇 호스팅)](NAZE/README.MD)
 
-## 페이지
- * [Home](README.MD)
- * [config.json](Config/README.MD)
- * [Deplux NAZE](NAZE/README.MD)
+## 목차
+ * [API]()
+ * [기능]()

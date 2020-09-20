@@ -1,10 +1,12 @@
-Deplux Offcial Document
+# Deplux Official Document
 =============
-<img src="./Assets/Deplux3_Circle.png" width="210px">
-   
- > Deplux is Discord-Bot-Based Web/Bot Hosting Service.
- > Make dream to real with Deplux.   
+<p class = "center">
+	<img src="./Assets/Deplux3_Circle.png" width="210px">
+</p>
 
-### Languages :
-* [Korean](./Korean/README.MD)
-* ~~[English](./Englsih/README.MD)~~
+### Deplux is Discord Bot Based Web/Bot Hosting Service. 
+> Make your Dream come true!
+
+### Currently Supported Languages 
+* [한국어](./Korean/README.MD)
+* [English](./Englsih/README.MD)

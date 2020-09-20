@@ -1,7 +1,7 @@
 # Deplux Official Document
-=============
-<p class = "center">
-	<img src="./Assets/Deplux3_Circle.png" width="210px">
+
+<p align = "center">
+<img src="./Assets/Deplux3_Circle.png" width="210px">
 </p>
 
 ### Deplux is Discord Bot Based Web/Bot Hosting Service. 
